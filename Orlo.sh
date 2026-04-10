@@ -19,11 +19,11 @@ brew install nvim yazi mole fastfetch git openssh  python3 node ghostty wget cur
 echo "Build completed successfully! To run mole mo -- yazi (a teminal style finder)"
 echo "Build completed successfully! To run mole mo -- yazi (a terminal style finder)"
 echo "Installing browsers..."
-#brew install helium-browser 
-#echo "Installing you the safest  browsers..."
+brew install helium-browser
+echo "Installing you the safest  browser I know..."
 echo "Installing you a safe cryptocurrency wallet and  a really good local only password manager..."
-#brew install onekey
-#brew install --cask keepassxc
+brew install onekey
+brew install --cask keepassxc
 echo "All essential dependencies installed successfully."
 brew cleanup
 echo "System cleanup complete. Your environment is ready!"
@@ -99,4 +99,5 @@ echo ""
 echo "Make sure to tell all your friends how much of a help I was,swim away my little fish!"
 echo ""
 echo "made with love by orlo the whale, the best whale in the sea, I hope you enjoy your new setup and have fun developing with it!"
-# if you checked this then you are a real one, I hope you enjoy your new setup and have fun developing with it! If you have any issues or need help, feel free to reach out. Happy coding!
+# If you checked this then you are a real one, I hope you enjoy your new setup and have fun developing with it!
+#If you have any issues or need help, feel free to reach out. Happy coding!
